@@ -19,5 +19,5 @@
 - Clinic Management System
 
 ## 📫 Contact
-- Email: your email
-- LinkedIn: your link
+- Email: abdulreyyan245@gmail.com
+- LinkedIn: www.linkedin.com/in/abdul-reyyan-2b2280367
